@@ -25,3 +25,13 @@ Add the following before the closing body tag. Note the "loremDropdown" in toolb
             quickInsertButtons: ['image', 'table', 'ul', 'ol', 'hr']
         });
       });
+
+####Credits####
+Thanks to the following sites for providing the Ipsum text used in this plugin.
+
+Standard: http://www.lipsum.com/
+Beer: http://random-ize.com/lorem-ipsum-generators/beer/
+Star Wars: http://star-wars-ipsum.herokuapp.com/
+Samuel L.: http://slipsum.com/
+Veggie: http://veggieipsum.com/
+Bacon: http://baconipsum.com/
