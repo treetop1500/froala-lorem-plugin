@@ -9,7 +9,7 @@ Get Froala Editor up and running according to the latest instructions here: http
 ###Add the Plugin Script###
 Add the script tag to the plugin after jQuery and the main froala js file and before you intialize Froala (below).
 
-    <script type="text/javascript" src="js/froala-lorem-plugin.js"></script>
+    <script type="text/javascript" src="js/froala-lorem.plugin.js"></script>
 
 ##Usage##
 
